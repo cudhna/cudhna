@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:FF6D5A,100:EA4B35&height=250&section=header&text=cudhna&fontFace=Lobster&fontSize=90&fontAlignY=35&desc=Automation%20Engineer%20%7C%20Security%20Researcher%20%7C%20Workflow%20Architect&descSize=20&descAlignY=62&fontColor=ffffff&animation=twinkling&stroke=000000&strokeWidth=0)](https://github.com/cudhna)
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:FF6D5A,100:EA4B35&height=250&section=header&text=cudhna&fontFace=Lobster&fontSize=90&fontAlignY=35&desc=Security%20%7C%20Automation%20%7C%20IT%20Support%20%7C%20Data%20Analysis&descSize=20&descAlignY=62&fontColor=ffffff&animation=twinkling&stroke=000000&strokeWidth=0)](https://github.com/cudhna)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=600&color=FF6D5A&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=130&lines=Information+Security+%7C+Final+Year+%40+FPT+University;Data+Analysis+%7C+Automation+Engineer+%40+FPT+Software;Webhook+%7C+API+%7C+n8n+%7C+Vibe+Code+%7C+Low-code;Pentest+%7C+Reverse+Engineering+%7C+Cryptography)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=600&color=FF6D5A&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=130&lines=Information+Security+%7C+Final+Year+%40+FPT+University;IT+Helpdesk+%7C+Data+Analysis+%7C+Automation+Engineer+%40+FPT+Software;Webhook+%7C+API+%7C+n8n+%7C+Vibe+Code+%7C+Low-code;Pentest+%7C+Reverse+Engineering+%7C+Cryptography)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,15 +20,18 @@
     "education": "Information Security -- FPT University (Final Year)",
     "internship": {
       "company": "FPT Software Ha Noi -- FPT Tower",
+      "department": "IT Helpdesk",
       "duration": "6 months",
-      "roles": ["Data Analysis", "Automation Engineer"],
-      "tools": ["Vibe Code", "n8n", "Power Automate"]
+      "roles": ["IT Helpdesk Support", "Data Analysis", "Automation Engineer"],
+      "tools": ["Vibe Code", "n8n", "Power Automate", "Windows Server"]
     },
     "focus": [
       "Automation & Workflow Architecture",
-      "Penetration Testing",
+      "Penetration Testing & Security Research",
+      "IT Support & Infrastructure",
       "API / Webhook Integration",
-      "Reverse Engineering & Cryptography"
+      "Reverse Engineering & Cryptography",
+      "Data Analysis & Reporting"
     ],
     "status": "Always shipping"
   }
@@ -115,8 +118,9 @@
 <tr>
 <td align="left">
 <b>🏢 FPT Software Hà Nội — FPT Tower</b><br/>
-📌 Data Analysis &amp; Automation Engineer<br/>
+📌 IT Helpdesk · Data Analysis · Automation Engineer<br/>
 ⏱️ 6-month internship<br/><br/>
+✦ IT Helpdesk support &amp; infrastructure management<br/>
 ✦ Built automation workflows with Vibe Code &amp; n8n<br/>
 ✦ API &amp; Webhook integration for internal systems<br/>
 ✦ Data pipeline design &amp; reporting automation
@@ -180,7 +184,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cudhna)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/matnick.balan.7/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ducanhta205@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/cudhna)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cudhna@gmail.com)
 
 </div>
