@@ -184,11 +184,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cudhna@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:EA4B35,100:1a1a2e&height=120&section=footer&desc=Built%20with%20automation%2C%20security%20mindset%20%26%20too%20much%20coffee&descSize=18&descAlignY=55&fontColor=ffffff)](https://github.com/cudhna)
-
-</div>
