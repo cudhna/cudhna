@@ -164,8 +164,8 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cudhna&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF6D5A&icon_color=EA4B35&text_color=ffffff&include_all_commits=true)](https://github.com/cudhna)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cudhna&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF6D5A&text_color=ffffff)](https://github.com/cudhna)
+[![GitHub Stats](https://github-readme-stats-nine-azure-51.vercel.app/api?username=cudhna&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF6D5A&icon_color=EA4B35&text_color=ffffff&count_private=true&include_all_commits=true)](https://github.com/cudhna)
+[![Top Languages](https://github-readme-stats-nine-azure-51.vercel.app/api/top-langs/?username=cudhna&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF6D5A&text_color=ffffff&count_private=true)](https://github.com/cudhna)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cudhna&theme=radical&hide_border=true&background=1A1A2E&ring=FF6D5A&fire=EA4B35&currStreakLabel=FF6D5A)](https://git.io/streak-stats)
 
@@ -182,16 +182,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cudhna)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/cudhna)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cudhna@gmail.com)
-
-</div>
-
----
-
-## 👁️ Profile Views
-
-<div align="center">
-
-![Profile Views](https://count.getloli.com/@cudhna?theme=booru-lewd)
 
 </div>
 
