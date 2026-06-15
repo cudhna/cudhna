@@ -75,16 +75,33 @@
 
 <div align="center">
 
-```
-+===================+====================+===================+
-|    PENTEST        |    POLICY & GRC    |    ANALYSIS       |
-+===================+====================+===================+
-| Web App Testing   | Security Policy    | Reverse Eng.      |
-| Network Scanning  | Compliance Audit   | Cryptography      |
-| Vuln Assessment   | Risk Management    | Malware Analysis  |
-| OWASP Top 10      | Windows Server Mgr | Binary Analysis   |
-+===================+====================+===================+
-```
+<table>
+<tr>
+<th>🔍 Pentest</th>
+<th>📋 Policy &amp; GRC</th>
+<th>🔬 Analysis</th>
+</tr>
+<tr>
+<td>Web App Testing</td>
+<td>Security Policy</td>
+<td>Reverse Engineering</td>
+</tr>
+<tr>
+<td>Network Scanning</td>
+<td>Compliance Audit</td>
+<td>Cryptography</td>
+</tr>
+<tr>
+<td>Vuln Assessment</td>
+<td>Risk Management</td>
+<td>Malware Analysis</td>
+</tr>
+<tr>
+<td>OWASP Top 10</td>
+<td>Windows Server Mgr</td>
+<td>Binary Analysis</td>
+</tr>
+</table>
 
 </div>
 
@@ -94,17 +111,18 @@
 
 <div align="center">
 
-```
-+-------------------------------------------------------+
-|  FPT Software Ha Noi -- FPT Tower                     |
-|  Role   : Data Analysis & Automation Engineer         |
-|  Period : 6-month internship                          |
-+-------------------------------------------------------+
-|  - Built automation workflows with Vibe Code & n8n    |
-|  - API & Webhook integration for internal systems     |
-|  - Data pipeline design & reporting automation        |
-+-------------------------------------------------------+
-```
+<table>
+<tr>
+<td align="left">
+<b>🏢 FPT Software Hà Nội — FPT Tower</b><br/>
+📌 Data Analysis &amp; Automation Engineer<br/>
+⏱️ 6-month internship<br/><br/>
+✦ Built automation workflows with Vibe Code &amp; n8n<br/>
+✦ API &amp; Webhook integration for internal systems<br/>
+✦ Data pipeline design &amp; reporting automation
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -114,20 +132,29 @@
 
 <div align="center">
 
-```
-+----------------+     +----------------+     +----------------+
-|    TRIGGER     |---->|    PROCESS     |---->|    OUTPUT      |
-+----------------+     +----------------+     +----------------+
-| Spot a boring  |     | Design the     |     | Ship &         |
-| manual task    |     | automation     |     | iterate        |
-|                |     | workflow       |     |                |
-+----------------+     +----------------+     +----------------+
-        |                      |                      |
-        v                      v                      v
-     Webhook               n8n nodes             Integration
-     Cron job              Logic / IF             API calls
-     HTTP trigger          Transform              Notifications
-```
+<table>
+<tr>
+<th>⚡ TRIGGER</th>
+<th>→</th>
+<th>⚙️ PROCESS</th>
+<th>→</th>
+<th>🚀 OUTPUT</th>
+</tr>
+<tr>
+<td align="center">Spot a boring<br/>manual task</td>
+<td align="center">▶</td>
+<td align="center">Design the<br/>automation<br/>workflow</td>
+<td align="center">▶</td>
+<td align="center">Ship &amp;<br/>iterate</td>
+</tr>
+<tr>
+<td align="center">Webhook<br/>Cron job<br/>HTTP trigger</td>
+<td></td>
+<td align="center">n8n nodes<br/>Logic / IF<br/>Transform</td>
+<td></td>
+<td align="center">Integration<br/>API calls<br/>Notifications</td>
+</tr>
+</table>
 
 </div>
 
@@ -137,7 +164,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cudhna&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF6D5A&icon_color=EA4B35&text_color=ffffff&count_private=true&include_all_commits=true)](https://github.com/cudhna)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cudhna&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF6D5A&icon_color=EA4B35&text_color=ffffff&include_all_commits=true)](https://github.com/cudhna)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cudhna&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF6D5A&text_color=ffffff)](https://github.com/cudhna)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cudhna&theme=radical&hide_border=true&background=1A1A2E&ring=FF6D5A&fire=EA4B35&currStreakLabel=FF6D5A)](https://git.io/streak-stats)
