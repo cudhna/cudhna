@@ -2,7 +2,7 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:FF6D5A,100:EA4B35&height=250&section=header&text=cudhna&fontFace=Lobster&fontSize=90&fontAlignY=35&desc=Automation%20Engineer%20%7C%20Security%20Researcher%20%7C%20Workflow%20Architect&descSize=20&descAlignY=62&fontColor=ffffff&animation=twinkling&stroke=000000&strokeWidth=0)](https://github.com/cudhna)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=600&color=FF6D5A&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=130&lines=🔐+Information+Security+%7C+Final+Year+@+FPT+University;⚡+Data+Analysis+%7C+Automation+Engineer+@+FPT+Software;🔗+Webhook+%7C+API+%7C+n8n+%7C+Vibe+Code+%7C+Low-code;🛡️+Pentest+%7C+Reverse+Engineering+%7C+Cryptography)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=600&color=FF6D5A&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=130&lines=Information+Security+%7C+Final+Year+%40+FPT+University;Data+Analysis+%7C+Automation+Engineer+%40+FPT+Software;Webhook+%7C+API+%7C+n8n+%7C+Vibe+Code+%7C+Low-code;Pentest+%7C+Reverse+Engineering+%7C+Cryptography)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,10 +16,10 @@
   "type": "profile.engineer",
   "parameters": {
     "name": "cudhna",
-    "location": "Viet Nam 🇻🇳",
-    "education": "Information Security — FPT University (Final Year)",
+    "location": "Viet Nam",
+    "education": "Information Security -- FPT University (Final Year)",
     "internship": {
-      "company": "FPT Software Hà Nội — FPT Tower",
+      "company": "FPT Software Ha Noi -- FPT Tower",
       "duration": "6 months",
       "roles": ["Data Analysis", "Automation Engineer"],
       "tools": ["Vibe Code", "n8n", "Power Automate"]
@@ -30,7 +30,7 @@
       "API / Webhook Integration",
       "Reverse Engineering & Cryptography"
     ],
-    "status": "Always shipping 🚀"
+    "status": "Always shipping"
   }
 }
 ```
@@ -76,16 +76,14 @@
 <div align="center">
 
 ```
-  ╔═══════════════════════════════════════════════════════════╗
-  ║                   SECURITY ARSENAL                        ║
-  ╠══════════════════╦════════════════════╦═══════════════════╣
-  ║  🔍 Pentest      ║  📋 Policy & GRC   ║  🔬 Analysis      ║
-  ║──────────────────║────────────────────║───────────────────║
-  ║  Web App Testing ║  Security Policy   ║  Reverse Eng.     ║
-  ║  Network Scan    ║  Compliance Audit  ║  Cryptography     ║
-  ║  Vuln Assessment ║  Risk Management   ║  Malware Analysis ║
-  ║  OWASP Top 10    ║  Windows Server    ║  Binary Analysis  ║
-  ╚══════════════════╩════════════════════╩═══════════════════╝
++===================+====================+===================+
+|    PENTEST        |    POLICY & GRC    |    ANALYSIS       |
++===================+====================+===================+
+| Web App Testing   | Security Policy    | Reverse Eng.      |
+| Network Scanning  | Compliance Audit   | Cryptography      |
+| Vuln Assessment   | Risk Management    | Malware Analysis  |
+| OWASP Top 10      | Windows Server Mgr | Binary Analysis   |
++===================+====================+===================+
 ```
 
 </div>
@@ -97,15 +95,15 @@
 <div align="center">
 
 ```
-  ┌─────────────────────────────────────────────────────┐
-  │  🏢  FPT Software Hà Nội — FPT Tower                │
-  │  📌  Data Analysis & Automation Engineer             │
-  │  ⏱️   6 months internship                           │
-  │                                                     │
-  │  ✦ Built automation workflows with Vibe Code & n8n  │
-  │  ✦ API & Webhook integration for internal systems   │
-  │  ✦ Data pipeline design & reporting automation      │
-  └─────────────────────────────────────────────────────┘
++-------------------------------------------------------+
+|  FPT Software Ha Noi -- FPT Tower                     |
+|  Role   : Data Analysis & Automation Engineer         |
+|  Period : 6-month internship                          |
++-------------------------------------------------------+
+|  - Built automation workflows with Vibe Code & n8n    |
+|  - API & Webhook integration for internal systems     |
+|  - Data pipeline design & reporting automation        |
++-------------------------------------------------------+
 ```
 
 </div>
@@ -117,18 +115,18 @@
 <div align="center">
 
 ```
-  ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
-  │   TRIGGER    │────▶│   PROCESS    │────▶│    OUTPUT    │
-  │              │     │              │     │              │
-  │  Spot a      │     │  Design the  │     │  Ship &      │
-  │  boring      │     │  automation  │     │  iterate     │
-  │  manual task │     │  workflow    │     │  🚀          │
-  └──────────────┘     └──────────────┘     └──────────────┘
-         │                    │                    │
-         ▼                    ▼                    ▼
-      Webhook              n8n nodes           Integration
-      Cron job             Logic/IF            API calls
-      HTTP trigger         Transform           Notifications
++----------------+     +----------------+     +----------------+
+|    TRIGGER     |---->|    PROCESS     |---->|    OUTPUT      |
++----------------+     +----------------+     +----------------+
+| Spot a boring  |     | Design the     |     | Ship &         |
+| manual task    |     | automation     |     | iterate        |
+|                |     | workflow       |     |                |
++----------------+     +----------------+     +----------------+
+        |                      |                      |
+        v                      v                      v
+     Webhook               n8n nodes             Integration
+     Cron job              Logic / IF             API calls
+     HTTP trigger          Transform              Notifications
 ```
 
 </div>
@@ -142,7 +140,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cudhna&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF6D5A&icon_color=EA4B35&text_color=ffffff&count_private=true&include_all_commits=true)](https://github.com/cudhna)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cudhna&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF6D5A&text_color=ffffff)](https://github.com/cudhna)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cudhna&theme=radical&hide_border=true&background=1A1A2E&ring=FF6D5A&fire=EA4B35&currStreakLabel=FF6D5A)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cudhna&theme=radical&hide_border=true&background=1A1A2E&ring=FF6D5A&fire=EA4B35&currStreakLabel=FF6D5A)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cudhna&custom_title=Workflow+Execution+Log&bg_color=1a1a2e&color=FF6D5A&line=EA4B35&point=ffffff&area_color=FF6D5A&area=true&hide_border=true)](https://github.com/cudhna)
 
@@ -166,7 +164,7 @@
 
 <div align="center">
 
-![Profile Views](https://count.getloki.com/@cudhna?theme=booru-lewd)
+![Profile Views](https://count.getloli.com/@cudhna?theme=booru-lewd)
 
 </div>
 
@@ -174,6 +172,6 @@
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:EA4B35,100:1a1a2e&height=120&section=footer&desc=Built%20with%20automation%2C%20security%20mindset%20%26%20too%20much%20coffee%20☕&descSize=18&descAlignY=55&fontColor=ffffff)](https://github.com/cudhna)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:EA4B35,100:1a1a2e&height=120&section=footer&desc=Built%20with%20automation%2C%20security%20mindset%20%26%20too%20much%20coffee&descSize=18&descAlignY=55&fontColor=ffffff)](https://github.com/cudhna)
 
 </div>
